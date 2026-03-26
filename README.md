@@ -18,4 +18,4 @@ Me tornar desenvolvedor back-end e conquistar minha primeira oportunidade na ár
 ---
 
 ## Evolução:
-Sempre aprendendo e buscando evoluir na programação 🚀
+Sempre aprendendo e buscando evoluir na programação 
