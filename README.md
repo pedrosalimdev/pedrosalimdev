@@ -2,7 +2,7 @@
 
 Estudante de Sistemas de Informação.
 
-Iniciando minha jornada na programação
+Iniciando minha jornada na programação.
 
 ---
 
