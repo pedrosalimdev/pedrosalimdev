@@ -1,8 +1,8 @@
-# Olá, eu sou o Pedro Salim
+# Olá, eu sou o Pedro Salim.
 
-Estudante de Sistemas de Informação  
+Estudante de Sistemas de Informação.
 
-Iniciando minha jornada na programação  
+Iniciando minha jornada na programação
 
 ---
 
@@ -13,9 +13,9 @@ Iniciando minha jornada na programação
 ---
 
 ## Objetivo:
-Me tornar desenvolvedor back-end e conquistar minha primeira oportunidade na área  
+Me tornar desenvolvedor back-end e conquistar minha primeira oportunidade na área.  
 
 ---
 
 ## Evolução:
-Sempre aprendendo e buscando evoluir na programação 
+Sempre aprendendo e buscando evoluir na programação. 
